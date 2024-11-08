@@ -1,0 +1,92 @@
+
+[overlay]
+serverSelectHeader = "Servidores Disponibles"
+serverSelectConfirm = "Seleccionar"
+serverSelectCancel = "Cancelar"
+accountSelectHeader = "Selecciona una Cuenta"
+accountSelectConfirm = "Seleccionar"
+accountSelectCancel = "Cancelar"
+
+[login]
+loginCancelText = "Cancelar"
+loginSubheader = "INICIO DE SESIÓN DE MINECRAFT"
+loginEmailError = "* Valor no válido"
+loginEmailPlaceholder = "CORREO ELECTRÓNICO O NOMBRE DE USUARIO"
+loginPasswordError = "* Requerido"
+loginPasswordPlaceholder = "CONTRASEÑA"
+loginForgotPasswordText = "¿Olvidaste tu contraseña?"
+loginRememberMeText = "¿Recordarme?"
+loginButtonText = "INICIAR SESIÓN"
+loginNeedAccountText = "¿Necesitas una cuenta?"
+
+[ejs.landing]
+updateAvailableTooltip = "Actualización Disponible"
+usernamePlaceholder = "Nombre de Usuario"
+usernameEditButton = "Editar"
+settingsTooltip = "Configuración"
+serverStatus = "SERVIDOR"
+serverStatusPlaceholder = "DESCONECTADO"
+mojangStatus = "ESTADO DE MOJANG"
+mojangStatusTooltipTitle = "Servicios"
+mojangStatusNETitle = "No Esencial"
+newsButton = "NOTICIAS"
+launchButton = "Jugar"
+launchButtonPlaceholder = "• No se ha seleccionado servidor"
+launchDetails = "Por favor espera.."
+newsNavigationStatus = "{currentPage} de {totalPages}"
+newsErrorLoadSpan = "Comprobando Noticias.."
+newsErrorFailedSpan = "Error al Cargar Noticias"
+newsErrorRetryButton = "Intentar de Nuevo"
+newsErrorNoneSpan = "Sin Noticias"
+
+[ejs.login]
+loginCancelText = "Cancelar"
+loginSubheader = "INICIO DE SESIÓN DE MINECRAFT"
+
+[ejs.loginOptions]
+loginOptionsTitle = "Opciones de Inicio de Sesión"
+loginWithMicrosoft = "Iniciar sesión con Microsoft"
+loginWithMojang = "Iniciar sesión con Mojang"
+cancelButton = "Cancelar"
+
+[ejs.overlay]
+serverSelectHeader = "Servidores Disponibles"
+serverSelectConfirm = "Seleccionar"
+serverSelectCancel = "Cancelar"
+accountSelectHeader = "Selecciona una Cuenta"
+accountSelectConfirm = "Seleccionar"
+accountSelectCancel = "Cancelar"
+
+[ejs.settings]
+navHeaderText = "Configuración"
+navAccount = "Cuenta"
+navMinecraft = "Minecraft"
+navMods = "Mods"
+navJava = "Java"
+navLauncher = "Lanzador"
+navAbout = "Acerca de"
+navUpdates = "Actualizaciones"
+navDone = "Hecho"
+
+[ejs.waiting]
+waitingText = "Esperando a Microsoft..."
+
+[ejs.welcome]
+continueButton = "CONTINUAR"
+
+[settings]
+navHeaderText = "Configuración"
+navAccount = "Cuenta"
+navMinecraft = "Minecraft"
+navMods = "Mods"
+navJava = "Java"
+navLauncher = "Lanzador"
+navAbout = "Acerca de"
+navUpdates = "Actualizaciones"
+navDone = "Hecho"
+
+[auth]
+microsoftLoginTitle = "Inicio de Sesión con Microsoft"
+microsoftLogoutTitle = "Cerrar Sesión de Microsoft"
+unknownErrorTitle = "Error Desconocido Durante el Inicio de Sesión"
+unknownErrorDesc = "Ha ocurrido un error desconocido. Por favor, revisa la consola para más detalles."
